@@ -1,6 +1,6 @@
-package com.sq2wkh.java8.features.extension_methods;
+package com.sq2wkh.java8.features.default_method;
 
-import com.sq2wkh.java8.features.extension_methods.impl.DefaultMethodImpl;
+import com.sq2wkh.java8.features.default_method.impl.DefaultMethodImpl;
 
 /**
  * Created by alipinski on 2016-03-11.

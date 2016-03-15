@@ -1,4 +1,4 @@
-package com.sq2wkh.java8.features.extension_methods;
+package com.sq2wkh.java8.features.default_method;
 
 /**
  * Created by alipinski on 2016-03-11.
