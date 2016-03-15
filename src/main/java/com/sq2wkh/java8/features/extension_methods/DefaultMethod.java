@@ -3,7 +3,7 @@ package com.sq2wkh.java8.features.extension_methods;
 /**
  * Created by alipinski on 2016-03-11.
  */
-public interface ExtensionMethod {
+public interface DefaultMethod {
     String getHelloForName(String name);
 
     /**
