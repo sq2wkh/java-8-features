@@ -31,7 +31,7 @@ public interface DefaultMethod {
      * of static methods inside interface will make pattern of an interface utility class
      * redundant e.g. Collections for Collection interface, Paths for Path and so on. You
      * can directly define static utility method on interface itself.
-     * source: http://javarevisited.blogspot.com/2014/07/default-defender-or-extension-method-of-Java8-example-tutorial.html
+     * @see <a href="http://javarevisited.blogspot.com/2014/07/default-defender-or-extension-method-of-Java8-example-tutorial.html">Link</a>
      */
     default String getHello(String name){
         return "Hello " + name;
