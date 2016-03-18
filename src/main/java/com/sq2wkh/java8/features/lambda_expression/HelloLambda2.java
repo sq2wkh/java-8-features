@@ -18,7 +18,6 @@ public class HelloLambda2 {
             }
         });
         testButton.addActionListener(e -> System.out.println("Click Detected by Lambda Listner"));
-        // Swing stuff
         JFrame frame = new JFrame("Listener Test");
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         frame.add(testButton, BorderLayout.CENTER);
